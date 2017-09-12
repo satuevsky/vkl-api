@@ -1,4 +1,9 @@
+let Server = require('./lib/Server'),
+	Method = require('./lib/Method'),
+	Error = require('./lib/Method');
+
 module.exports = {
-	API: require('./lib/server'),
-	Method: require('./lib/method')
+	Server,
+	Method,
+	Error,
 };
