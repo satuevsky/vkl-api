@@ -1,6 +1,6 @@
 {
-  "name": "express-api",
-  "version": "1.0.0",
+  "name": "vkl-api",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,6 @@
     "url": "https://github.com/satuevsky/express-api/issues"
   },
   "homepage": "https://github.com/satuevsky/express-api#readme",
-  "dependencies": {
-    "express": "^4.15.3"
-  },
   "devDependencies": {
     "mocha": "^3.4.2",
     "request": "^2.81.0"
